@@ -1,6 +1,6 @@
 # Vaja6-ADC-scan-mode-conversion-Nucleo
 
-Določite in aktivirajte tri analogne vhode za kanale IN1, IN2 in IN3 za zunanje potenciometre kot Singleended vhod. To bodo pini PC0, PC1  in PC2. zbrani pini naj bodo vsi v isti grupi/skupini! Katera skupina je to? C.
+Določite in aktivirajte tri analogne vhode za kanale IN1, IN2 in IN3 za zunanje potenciometre kot Single-ended vhod. To bodo pini PC0, PC1  in PC2. zbrani pini naj bodo vsi v isti grupi/skupini! Katera skupina je to? C.
 
 Na Pinout configuration se vam morajo usterzno pobarvati izbrani pin v zeleno barvo. Kaj se izpiše poleg pinov? ADC1_IN1, ADC1_IN2  in ADC1_IN3.
 
